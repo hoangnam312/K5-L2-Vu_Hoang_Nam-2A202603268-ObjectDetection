@@ -12,7 +12,7 @@ Tên repo bài nộp:
 K5-L2-DAY02-HoVaTen-MSSV-ObjectDetection
 ```
 
-Nếu lớp dùng tên riêng, thay `L2` bằng `L2A` hoặc `L2B`. Ví dụ: `K5-L2B-DAY02-NguyenVanAn-2A20260000-ObjectDetection`. Viết tên không dấu, không khoảng trắng, phân cách bằng dấu `-`; ngày dùng `DAY02`.
+Nếu lớp dùng tên riêng, thay `L2` bằng `L2A` hoặc `L2B`. Ví dụ: `K5-L2B-DAY02-VuHoangNam-2A202603268-ObjectDetection`. Viết tên không dấu, không khoảng trắng, phân cách bằng dấu `-`; ngày dùng `DAY02`.
 
 ## Cấu trúc bài nộp
 
